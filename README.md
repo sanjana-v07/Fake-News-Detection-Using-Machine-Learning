@@ -4,6 +4,13 @@
 This project detects fake and real news articles using Machine Learning. 
 It uses TF-IDF Vectorization and the Passive Aggressive Classifier to classify news articles.
 
+## Features
+- Fake and True news classification
+- Data preprocessing
+- TF-IDF Vectorization
+- Passive Aggressive Classifier
+- Random news prediction
+
 ## Tools Used
 - Python
 - Google Colab
@@ -19,11 +26,9 @@ It uses TF-IDF Vectorization and the Passive Aggressive Classifier to classify n
 ## Dataset
 ISOT Fake News Dataset (Kaggle)
 
-## Machine Learning Algorithm
-Passive Aggressive Classifier
-
 ## Accuracy
 (99.29%)
+
 ## Project Screenshots
 
 ### 1. Kaggle Dataset
