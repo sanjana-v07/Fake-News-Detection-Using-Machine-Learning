@@ -32,7 +32,7 @@ ISOT Fake News Dataset (Kaggle)
 ## Project Screenshots
 
 ### 1. Kaggle Dataset
-<img width="1902" height="917" alt="Screenshot 2026-07-14 093133" src="https://github.com/user-attachments/assets/9e2128e0-f866-46aa-ac6b-beae4a325bea" />
+https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets
 
 ### 2. Fake News Dataset
 <img width="1847" height="337" alt="Screenshot 2026-07-16 074743" src="https://github.com/user-attachments/assets/f4931a66-428e-454a-9acc-675911ff6986" />
